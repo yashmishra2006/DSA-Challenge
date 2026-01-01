@@ -1,3 +1,29 @@
 *.exe
 *.class
-.vscode/
+/.vscode/
+# remove .vs code folder and .class files
+.DS_Store
+node_modules/   
+dist/
+.env
+logs/
+*.log
+coverage/
+.idea/
+*.iml
+*.swp
+thumbs.db
+# Ignore temporary files
+*.tmp
+*.bak
+# Ignore system files
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+# Ignore build directories
+build/
+out/
+target/
+# Ignore dependency directories
+vendor/
+.bundle/
