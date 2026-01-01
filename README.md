@@ -1,131 +1,138 @@
-📘 Striver’s A2Z DSA Challenge
+# 📘 Striver's A2Z DSA Challenge
 
-Repository: Striver’s DSA Challenge (Learn DSA A to Z)
-Official Sheet: https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z
+**Repository:** Striver's DSA Challenge (Learn DSA A to Z)  
+**Official Sheet:** [https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
 
-👋 Team Members
+---
 
-Yash
+## 👋 Team Members
 
-Prapti
+- **Yash**
+- **Prapti**
+- **Khushi**
+- **Aman**
+- **Arkin**
 
-Khushi
+---
 
-Aman
+## 🚀 Overview
 
-Arkin
+Welcome to the **Striver's A2Z DSA Challenge** 🚀
 
-🚀 Overview
-
-Welcome to the Striver’s A2Z DSA Challenge 🚀
-This repository documents our collective journey through Striver’s A2Z DSA Sheet, a structured roadmap covering Data Structures and Algorithms from basics to advanced concepts.
+This repository documents our collective journey through **Striver's A2Z DSA Sheet**, a structured roadmap covering Data Structures and Algorithms from basics to advanced concepts.
 
 Our goal is to stay consistent, collaborate, and become strong problem solvers ready for coding interviews and competitive programming.
 
-🎯 Objectives
+---
 
-✅ Complete the entire Striver’s A2Z DSA Sheet
+## 🎯 Objectives
 
-✅ Strengthen DSA fundamentals
+- ✅ Complete the entire Striver's A2Z DSA Sheet
+- ✅ Strengthen DSA fundamentals
+- ✅ Write clean, optimized, and readable code
+- ✅ Help each other via discussions and reviews
+- ✅ Track progress transparently
 
-✅ Write clean, optimized, and readable code
+---
 
-✅ Help each other via discussions and reviews
+## 🧠 Topics Covered
 
-✅ Track progress transparently
+- Arrays
+- Strings
+- Linked Lists
+- Stacks & Queues
+- Hashing
+- Recursion & Backtracking
+- Binary Trees
+- Binary Search Trees
+- Heaps & Priority Queues
+- Greedy Algorithms
+- Dynamic Programming
+- Graphs
+- Bit Manipulation
+- Sliding Window & Two Pointers
 
-🧠 Topics Covered
+---
 
-Arrays
+## 📂 Repository Structure
 
-Strings
-
-Linked Lists
-
-Stacks & Queues
-
-Hashing
-
-Recursion & Backtracking
-
-Binary Trees
-
-Binary Search Trees
-
-Heaps & Priority Queues
-
-Greedy Algorithms
-
-Dynamic Programming
-
-Graphs
-
-Bit Manipulation
-
-Sliding Window & Two Pointers
-
-📂 Repository Structure
+```
 Strivers-DSA-Challenge/
 │
 ├── Arrays/
+│
 ├── Strings/
+│
 ├── LinkedLists/
+│
 ├── StacksQueues/
+│
 ├── Trees/
+│
 ├── Graphs/
+│
 ├── DynamicProgramming/
+│
 ├── Greedy/
+│
 ├── BitManipulation/
-├── README.md
+│
+└── README.md
+```
 
-Each solution file includes:
+**Each solution file includes:**
 
-Problem name
+- Problem name
+- Problem link
+- Approach explanation
+- Optimized code
 
-Problem link
+---
 
-Approach explanation
+## 🧑‍💻 Contribution Guidelines
 
-Optimized code
+1. Pick a problem from the sheet
+2. Create a file with a clear name
+   - Example: `015_Maximum_Subarray.cpp`
+3. Add comments explaining logic
+4. Commit with a meaningful message
+5. Push changes to the repository
 
-🧑‍💻 Contribution Guidelines
+---
 
-Pick a problem from the sheet
+## 📈 Progress Tracker
 
-Create a file with a clear name
+| Member  | Status           |
+|---------|------------------|
+| Yash    | ⏳ In Progress   |
+| Prapti  | ⏳ In Progress   |
+| Khushi  | ⏳ In Progress   |
+| Aman    | ⏳ In Progress   |
+| Arkin   | ⏳ In Progress   |
 
-Example: 015_Maximum_Subarray.cpp
+---
 
-Add comments explaining logic
+## 📌 Rules for the Challenge
 
-Commit with a meaningful message
+- Solve problems honestly (no copy-paste)
+- Discuss solutions after attempting
+- Maintain consistency over speed
+- Help teammates who are stuck
 
-Push changes to the repository
+---
 
-📈 Progress Tracker
-Member	Status
-Yash	⏳ In Progress
-Prapti	⏳ In Progress
-Khushi	⏳ In Progress
-Aman	⏳ In Progress
-Arkin	⏳ In Progress
-📌 Rules for the Challenge
+## 💡 Motivation
 
-Solve problems honestly (no copy-paste)
+> "Consistency beats intensity."
 
-Discuss solutions after attempting
+Let's complete this sheet together and level up our DSA skills 💪
 
-Maintain consistency over speed
+---
 
-Help teammates who are stuck
+## ⭐ Acknowledgment
 
-💡 Motivation
+Thanks to **Striver (takeUforward)** for creating such an amazing DSA roadmap.
 
-“Consistency beats intensity.”
-Let’s complete this sheet together and level up our DSA skills 💪
+---
 
-⭐ Acknowledgment
-
-Thanks to Striver (takeUforward) for creating such an amazing DSA roadmap.
-
-Happy Coding! 🚀
+**Happy Coding!** 🚀
