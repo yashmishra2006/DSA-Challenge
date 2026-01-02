@@ -14,3 +14,8 @@ int largestArray(vector<int>& nums){
 }
     
 
+int main() {
+    vector<int> arr = {3, 5, 1, 9, 2};
+    cout << "Largest element: " << largestArray(arr) << endl;
+    return 0;
+}
