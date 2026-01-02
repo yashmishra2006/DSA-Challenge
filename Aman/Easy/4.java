@@ -1,1 +1,0 @@
-Lutein & Zeaxanthin, Omega-3s, and Zincss
