@@ -27,3 +27,5 @@ target/
 # Ignore dependency directories
 vendor/
 .bundle/
+tempCodeRunnerFile.cpp 
+test.cpp
