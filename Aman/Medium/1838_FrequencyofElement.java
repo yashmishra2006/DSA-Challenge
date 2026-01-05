@@ -1,3 +1,4 @@
+package Aman.Medium;
 import java.util.*;
 
 class Solution {
