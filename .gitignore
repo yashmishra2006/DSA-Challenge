@@ -29,3 +29,10 @@ vendor/
 .bundle/
 tempCodeRunnerFile.cpp 
 test.cpp
+# Ignore compiled binaries and common C/C++ outputs
+*.out
+a.out
+*.o
+*.obj
+bin/
+# If you compile into a `bin/` or `build/` directory prefer that and ignore it instead
