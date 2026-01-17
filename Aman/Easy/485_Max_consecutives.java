@@ -11,7 +11,6 @@ class Solution {
                 currentCount = 0;
             }
         }
-
         return maxCount;
     }
 }
